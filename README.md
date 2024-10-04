@@ -63,5 +63,5 @@
 - 🏧 [ATM Machine Simulator](https://github.com/taksinraja/ATM-simulator) – A Python-based ATM simulation project.
 - 🍽️ [5Star Hostel Restaurant Website](https://github.com/taksinraja/5star-restaurant) – An online food ordering system with features like add-to-cart, user login, online payment, and admin panel for managing orders and menus.
 
-## GitHub Stats:
-![Taksin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taksinraja&show_icons=true&theme=radical)
+### 📈 GitHub Stats:
+![Taksin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taksinraja&show_icons=true&theme=radical) ![Taksin's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taksinraja&theme=radical&layout=compact)
