@@ -26,7 +26,7 @@
 
 ## Projects:
 - 🌐 [Weather Forecasting Website](https://github.com/taksinraja/weather-forecasting) – A real-time weather prediction platform with a login system, calendar integration, and map features.
-- 🏧 [ATM Machine Simulator](https://github.com/taksinraja/ATM-simulator) – A Python-based ATM simulation project, recently converted into a web version using HTML, CSS, and JavaScript.
+- 🏧 [ATM Machine Simulator](https://github.com/taksinraja/ATM-simulator) – A Python-based ATM simulation project.
 - 🍽️ [5Star Hostel Restaurant Website](https://github.com/taksinraja/5star-restaurant) – An online food ordering system with features like add-to-cart, user login, online payment, and admin panel for managing orders and menus.
 
 ## GitHub Stats:
