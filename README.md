@@ -17,21 +17,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taskinraja01@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://taksinraja.netlify.app/)
 
-## 🎓 Education:
-
-- **Bachelor of Computer Applications (BCA)**  
-  🏫 *Maulana Abul Kalam Azad University Of Technology (MAKAUT), West Bengal*  
-  📅 *2022 - 2025*
-
-- **Higher Secondary (XII) - Arts**  
-  🏫 *Islampur High School*  
-  📅 *2022*  
-  📊 *Percentage: 89.20%*
-
-- **Secondary Education (X)**  
-  🏫 *Islampur High School*  
-  📅 *2020*  
-  📊 *Percentage: 59.20%*
 
 ### ⚒️ Technical Skills:
 
