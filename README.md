@@ -65,3 +65,6 @@
 
 ### 📈 GitHub Stats:
 ![Taksin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taksinraja&show_icons=true&theme=radical) ![Taksin's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taksinraja&theme=radical&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=taksinraja&theme=radical&no-frame=false&no-bg=true&margin-w=4)
